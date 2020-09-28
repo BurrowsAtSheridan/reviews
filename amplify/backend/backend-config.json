@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reviews5c306982": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
